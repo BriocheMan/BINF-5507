@@ -1,1 +1,2 @@
-# BINF-5507
+#BINF-5507
+#Assignment 02: Regression and Classification Models
